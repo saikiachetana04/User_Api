@@ -1,0 +1,19 @@
+
+ 1727785873058:::1 GET: /api/users
+ 
+ 1727785890611:::1 POST: /api/users
+ 
+ 1727785898995:::1 GET: /api/users
+ 
+ 1727785912128:::1 GET: /users
+ 
+ 1727785913799:::1 GET: /users
+ 
+ 1727785934020:::1 GET: /api/users
+ 
+ 1727785965186:::1 GET: /api/users/66fbeba221d1602a56be9208
+ 
+ 1727785973960:::1 PATCH: /api/users/66fbeba221d1602a56be9208
+ 
+ 1727785990133:::1 DELETE: /api/users/66fbeba221d1602a56be9208
+ 
